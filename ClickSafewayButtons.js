@@ -36,5 +36,5 @@ function clickButtonsFunc() {
 
 const interval = setInterval(function (data) {
     clickButtonsFunc();
-}, 3000);
+}, 10000);
 
